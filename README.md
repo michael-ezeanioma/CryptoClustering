@@ -49,7 +49,8 @@ Uses hvPlot to create a composite plot comparing elbow curves and clustering res
 # Files
 
 __Crypto_Clustering.ipynb:__ Jupyter Notebook with all analysis and visualizations.
-crypto_market_data.csv – Dataset containing cryptocurrency market data.
+
+__crypto_market_data.csv:__ – Dataset containing cryptocurrency market data.
 
 # Key Features
 
